@@ -174,7 +174,7 @@ blueright_blue{
 green {
 	font-family: Roboto;
 	font-size: 16px;
-	color: #deff00;
+	color: #68ddff;
 	text-align: justify;
 }
 greenleft_green { text-align: left; }
@@ -182,11 +182,11 @@ greenright_green { text-align: right; }
 greencenter_green { text-align: center; }
 
 greenunderline_p{
-	color: #deff00;
+	color: #68ddff;
 	text-decoration: underline;
 }
 greenboldcenter_p {
-	color: #deff00;
+	color: #68ddff;
 	text-align: center;
 	font-weight: bold;
 }
@@ -282,11 +282,11 @@ exotic_left { color:#a3bcfd;}
 exoticright_right { color:#a3bcfd;}
 
 npcdialoganswer_p {
-	color: #deff00;
+	color: #68ddff;
 	text-align: left;
 }
 npcdialoganswerover_p {
-	color: #e7ff73;
+	color: #9de9ff;
 	text-align: left;
 }
 
