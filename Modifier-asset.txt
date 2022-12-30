@@ -1,18 +1,21 @@
-2414 Stat
-30 shop
-1022 sort
+10 shop
+431 coord
 1063  ami 
-1097 compagnon
-1101 sort 
-1105 alignement
-1185 koli
-1263 succès
+1101 sort (surement lui)
 1468 quetes
+1800 succès (surement lui)
+2414 Stat
+3172 inventaire
+
+
+
+-----
+1097 compagnon
+1105 alignement
+3036 koli(surement lui)
 1495 magasin
-1800 succès
 1984 idole
 2369 ensemble 
-2408 koli
 2620 calendrier
 2661 annuaire
 2871 drago
@@ -20,14 +23,11 @@
 2986 groupe 
 3017 guilde
 3073 bestiaire
-3172 inventaire
-
-
-
-
-
-
------
 1672 equipement
-2676 (encore koli?)
-3036 (re re koli?)
+
+
+1185 koli
+2408 koli
+2676 koli
+1022 sort
+1263 succès
