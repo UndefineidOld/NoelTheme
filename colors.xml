@@ -38,9 +38,9 @@
 
 	<entry key="grid.passiveSpell">0x7C6399</entry>
 
-	<entry key="multigrid.line">0x5a8f7e</entry>
+	<entry key="multigrid.line">0x5c5c5d</entry>
 	<entry key="multigrid.subline">0x202020</entry>
-	<entry key="multigrid.selected">0x20CCCCCC</entry>
+	<entry key="multigrid.selected">0xA5EAEA</entry>
     <entry key="multigrid.subselected">0x354c58</entry>
 	
 	<entry key="radio.over">0x2c2e26</entry>
